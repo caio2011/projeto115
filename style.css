@@ -1,0 +1,29 @@
+.corpo
+{
+    background-color: grey;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#comece
+{
+    background-color: red;
+    color: white;
+}
+
+.j
+{
+    background-color: blue;
+    color: white;
+}
+
+#titulo
+{
+    background-color: yellow;
+    color:black;
+}
+
+.s
+{
+    color:white;    
+}
